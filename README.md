@@ -84,9 +84,9 @@
 
 > ✏️ Replace `qusayaqeel` with your actual GitHub username
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME_HERE&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=qusayaqeel&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_HERE&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qusayaqeel&layout=compact&theme=radical)
 
 ---
 
