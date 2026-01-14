@@ -80,11 +80,21 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=qusayaqeel&show_icons=true&hide=issues&theme=radical)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=qusayaqeel&show_icons=true&theme=radical"
+    alt="GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=qusayaqeel&layout=compact&theme=radical"
+    alt="Top Languages"
+    height="165"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qusayaqeel&layout=compact&theme=radical)
 
 
 ---
